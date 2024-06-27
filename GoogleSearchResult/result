@@ -1,0 +1,1321 @@
+{
+    "search_metadata": {
+        "id": "667d30d558762b5438c84b89",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/d8c42b58864ea930/667d30d558762b5438c84b89.json",
+        "created_at": "2024-06-27 09:28:53 UTC",
+        "processed_at": "2024-06-27 09:28:53 UTC",
+        "google_url": "https://www.google.com.vn/search?q=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&oq=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&hl=vi&gl=vn&num=100&start=0&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/d8c42b58864ea930/667d30d558762b5438c84b89.html",
+        "total_time_taken": 2.16
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "site:facebook.com/groups/ B\u00e1n Nh\u00e0",
+        "google_domain": "google.com.vn",
+        "hl": "vi",
+        "gl": "vn",
+        "start": 0,
+        "num": "100",
+        "device": "desktop"
+    },
+    "search_information": {
+        "query_displayed": "site:facebook.com/groups/ B\u00e1n Nh\u00e0",
+        "total_results": 3000000,
+        "time_taken_displayed": 0.81,
+        "organic_results_state": "Results for exact spelling"
+    },
+    "organic_results": [
+        {
+            "position": 1,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T GI\u00c1 R\u1eba TP.HCM",
+            "link": "https://www.facebook.com/groups/2147108342046851/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/2147108342046851/&usg=AOvVaw02ByzhaxEjl1ionlYLxIf6",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc207fc48c80d6cf5b185ca1b230789b6ce5.png",
+            "snippet": "Ch\u1ee7 nh\u00e0 \u1edf h\u01a1n 60 n\u0103m!!! L\u1edbn tu\u1ed5i kh\u00f4ng s\u1eed d\u1ee5ng h\u1ebft, c\u1ea7n nh\u01b0\u1ee3ng l\u1ea1i cho c\u00e1c nh\u00e0 \u0111\u1ea7u t\u01b0 x\u00e2y d\u1ef1ng m\u1edbi!!! .",
+            "snippet_highlighted_words": [
+                "nh\u00e0",
+                "nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 2,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t T\u1ec9nh H\u00f2a B\u00ecnh 360o",
+            "link": "https://www.facebook.com/groups/303336300018289/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/303336300018289/&usg=AOvVaw0y2hWvlQVnmX2nkzekpXMq",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20a054c9f2364189e9f9cdd5e01cd473bd.png",
+            "snippet": "36m di\u1ec7n t\u00edch 108m2 s\u1ed5 \u0111\u1ecf ch\u00ednh ch\u1ee7 chuy\u1ec3n nh\u01b0\u1ee3ng. Li\u00ean h\u1ec7 s\u0111t : 0985907659. May be an ...",
+            "source": "facebook.com"
+        },
+        {
+            "position": 3,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Gi\u00e1 R\u1ebb H\u00e0 N\u1ed9i",
+            "link": "https://www.facebook.com/groups/muabannhadatbatdongsanhanoigiare/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/muabannhadatbatdongsanhanoigiare/&usg=AOvVaw3UXBfVWDQ5mcbr1gNRBZNY",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc207a4b0ab063953d6edd6eb55cdc30db99.png",
+            "snippet": "- Di\u1ec7n t\u00edch: 69 M2, nh\u00e0 m\u1edbi, 7 t\u1ea7ng thang m\u00e1y, MT 4 M. Xem nh\u00e0 li\u00ean h\u1ec7 tr\u1ef1c ti\u1ebfp: 0983765241. ... . T\u1ea7ng 2,3,4,5,6 m\u1ed7i t\u1ea7ng 3 ph\u00f2ng kh\u00e9p k\u00edn c\u00f3 g\u00e1c x\u00e9p, c\u00e1c ph\u00f2ng ...",
+            "snippet_highlighted_words": [
+                "nh\u00e0",
+                "nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 4,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t T\u1ec9nh H\u00f2a B\u00ecnh 360o",
+            "link": "https://www.facebook.com/groups/303336300018289/?locale=vi_VN",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/303336300018289/?locale=vi_VN&usg=AOvVaw2oYFn-Glq56U3Zkm1m-aoC",
+            "displayed_link": "https://www.facebook.com \u203a Nh\u00f3m Facebook",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc2054305c70863f221d98c38716a5285b70.png",
+            "snippet": "36m di\u1ec7n t\u00edch 108m2 s\u1ed5 \u0111\u1ecf ch\u00ednh ch\u1ee7 chuy\u1ec3n nh\u01b0\u1ee3ng. Li\u00ean h\u1ec7 s\u0111t : 0985907659. C\u00f3 th\u1ec3 l\u00e0 ...",
+            "source": "facebook.com"
+        },
+        {
+            "position": 5,
+            "title": "Mua b\u00e1n Nh\u00e0 \u0111\u1ea5t H\u00e0 \u0110\u00f4ng",
+            "link": "https://www.facebook.com/groups/1361900573820229/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1361900573820229/&usg=AOvVaw0M1t46lsgVeSbTwcMfzeHb",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20f7d7439144334dd25d945ab3ec9a218e.png",
+            "snippet": "2,2 t\u1ef7 c\u00f3 nh\u00e0 4 t\u1ea7ng t\u1ea1i Y\u00ean ngh\u0129a H\u00e0 \u0110\u00f4ng R\u1ebb nh\u1ea5t khu v\u1ef1c. C\u1ea7n b\u00e1n ngay trong tu\u1ea7n. Lh 0766277662 ( s\u1ed5 ri\u00eang, ph\u00e1p l\u00fd chu\u1ea9n) Http://zalo.me/0766277662 em g\u1eedi ...",
+            "snippet_highlighted_words": [
+                "nh\u00e0",
+                "b\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 6,
+            "title": "H\u1ed9i mua b\u00e1n nh\u00e0, \u0111\u1ea5t kh\u00f4ng qua m\u00f4i gi\u1edbi t\u1ea1i H\u00e0 N\u1ed9i",
+            "link": "https://www.facebook.com/groups/1600261290184331/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1600261290184331/&usg=AOvVaw0LBTVDAjnhn3VAggoVo9Pv",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20012c45359cdd34fada77e88155781909.png",
+            "snippet": "Ch\u00ednh ch\u1ee7 c\u1ea7n b\u00e1n nh\u00e0 \u1edf 158/177 ph\u1ed1 Ng\u1ecdc H\u00e0 - Ba \u0110\u00ecnh - H\u00e0 N\u1ed9i Di\u1ec7n t\u00edch : 30m2. Nh\u00e0 5 t\u1ea7ng. Nh\u00e0 m\u1edbi x\u00e2y , n\u1ed9i th\u1ea5t \u0111\u1ea7y \u0111\u1ee7 , thi\u1ebft k\u1ebf \u0111\u1eb9p.",
+            "snippet_highlighted_words": [
+                "b\u00e1n nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 7,
+            "title": "H\u1ed9i Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t, B\u0110S. S\u00e0i G\u00f2n - TP.HCM",
+            "link": "https://www.facebook.com/groups/293164824454556/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/293164824454556/&usg=AOvVaw1zaNCZkcAanduRbWX-1n44",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc203a94a235b1dc59a89efa8831b52d197c.png",
+            "snippet": "Nh\u1eadn mua b\u00e1n, k\u00fd g\u1eedi, C\u1ea7m C\u1ed1, B\u0110S TP.HCM,Bi\u1ec7t Th\u1ef1, Nh\u00e0 Ph\u1ed1, C\u0103n H\u1ed9, \u0111\u1ea5t n\u1ec1n d\u1ef1 \u00e1n..... Li\u00ean h\u1ec7 0909 668 928 Mr.Kh\u00e1nh.",
+            "snippet_highlighted_words": [
+                "mua b\u00e1n",
+                "Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 8,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T H\u00c0 N\u1ed8I CH\u00cdNH CH\u1ee6",
+            "link": "https://www.facebook.com/groups/633151553929935/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/633151553929935/&usg=AOvVaw1ajMLfTiZxd6xUTLsLh4lH",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20f8d1f301efa8f68074f74fbf0a23c940.png",
+            "snippet": "B\u00e1n nh\u00e0 4 t\u1ea7ng V\u0103n Qu\u00e1n, H\u00e0 \u0110\u00f4ng. M\u1eb7t b\u1eb1ng kinh doanh. \u00d4 t\u00f4 \u0111\u1ed7 c\u1eeda. Gi\u00e1 15 ...",
+            "snippet_highlighted_words": [
+                "B\u00e1n nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 9,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T H\u00c0 N\u1ed8I CH\u00cdNH CH\u1ee6",
+            "link": "https://www.facebook.com/groups/557816911579423/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/557816911579423/&usg=AOvVaw0C8uhzlWH8dz0krgoLzjD8",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20d13b3d7f7ef1925a2e25d16138ce6f18.png",
+            "snippet": "C\u1ea7n b\u00e1n g\u1ea5p 2 \u00f4 \u0111\u1ea5t di\u1ec7n t\u00edch h\u01a1n 40m 1 \u00f4 t\u1ea1i t\u1ed5 14. Y\u00ean Ngh\u0129a, \u0111\u1ea5t \u00f4 t\u00f4 \u0111\u1ed7 c\u1eeda, ng\u00f5 th\u00f4ng,b\u00e1n t\u1ea5t ho\u1eb7c b\u00e1n l\u1ebb. LH: Em \u0110\u1ee9c 0972997938. ... - ch\u00e0o gi\u00e1 : 5t\u1ef7 nh\u1ec9nh ...",
+            "snippet_highlighted_words": [
+                "b\u00e1n",
+                "b\u00e1n",
+                "b\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 10,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T B\u1eaeC GIANG",
+            "link": "https://www.facebook.com/groups/nhadatbg/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/nhadatbg/&usg=AOvVaw0EEP0KLLPEkPEDL6x414bl",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20c3fd88fde11db0a37fcb3d86df91920e.png",
+            "snippet": "N\u01a1i trao \u0111\u1ed5i th\u00f4ng tin, mua b\u00e1n v\u00e0 cho thu\u00ea Nh\u00e0 \u0111\u1ea5t - b\u1ea5t \u0111\u1ed9ng s\u1ea3n t\u1ea1i B\u1eafc Giang. C\u00f3 nhi\u1ec1u th\u00f4ng tin m\u1edbi v\u00e0 k\u1ef9 n\u0103ng hay \u0111\u01b0\u1ee3c \u0111\u0103ng tr\u00ean. Website:",
+            "snippet_highlighted_words": [
+                "mua b\u00e1n",
+                "Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 11,
+            "title": "Mua b\u00e1n nh\u00e0 \u0111\u1ea5t TP - Thanh Ho\u00e1",
+            "link": "https://www.facebook.com/groups/1883976915149195/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1883976915149195/&usg=AOvVaw09s5iZvDJ_TOMQhDNwXhqD",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc203c363c224298e7e67f2cd1312b299c72.png",
+            "snippet": "Mua B\u00e1n B\u1ea5t \u0110\u1ed9ng S\u1ea3n Than... ... B\u00e1n \u0111\u1ea5t \u0111\u1ea7u ve Mb530 h\u01b0\u1edbng \u0110\u00f4ng Nam, p.\u0110\u00f4ng V\u1ec7, TP Thanh H\u00f3a. ... No photo description available. ... No photo description available.",
+            "snippet_highlighted_words": [
+                "Mua B\u00e1n",
+                "B\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 12,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T B\u1ea4T \u0110\u1ed8NG S\u1ea2N PH\u1ee6 L\u00dd - H\u00c0 NAM",
+            "link": "https://www.facebook.com/groups/628666254252394/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/628666254252394/&usg=AOvVaw0muABg1tOMPxajwbuRcrCw",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc209a964292c0ce6a8f6b31ce76f4352316.png",
+            "snippet": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T B\u1ea4T \u0110\u1ed8NG S\u1ea2N PH\u1ee6 L\u00dd - H\u00c0 NAM ... b\u00e0n thu\u1ed9c t\u1ec9nh H\u00e0 Nam. ... Nh\u00e2n , huy\u1ec7n Thanh Li\u00eam , huy\u1ec7n B\u00ecnh L\u1ee5c.",
+            "snippet_highlighted_words": [
+                "B\u00c1N NH\u00c0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 13,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T TH\u00c1I NGUY\u00caN",
+            "link": "https://www.facebook.com/groups/620636298127834/?locale=vi_VN",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/620636298127834/?locale=vi_VN&usg=AOvVaw3ClxksOwIrtZ6Vx3UjuM0G",
+            "displayed_link": "https://www.facebook.com \u203a Nh\u00f3m Facebook",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc201e08b1a78525ef7f4710f0b7efbaecb1.png",
+            "snippet": "400m2 c\u00f3 200 th\u1ed5 c\u01b0. \u0110\u01b0\u1eddng to \u0111\u00f9ng c\u00e1ch m\u1ea1ng. Gi\u00e1 ch\u1ec9 10,5tr 1m. M\u1eb6t \u0111\u01b0\u1eddng g\u1ea7n u\u1ef7 ban Th\u1ecbnh \u0111\u1ee9c. \u0110i ...",
+            "snippet_highlighted_words": [
+                "ban"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 14,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T QU\u1eacN H\u00c0 \u0110\u00d4NG - H\u00c0 N\u1ed8I",
+            "link": "https://www.facebook.com/groups/1947013852261348/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1947013852261348/&usg=AOvVaw1XDUdesrIU1l4m6w1zMYzi",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc204af138d3008bef446aa19851ff6bfac1.png",
+            "snippet": "\u2668\ufe0f\u2668\ufe0fNH\u00c0 PHAN \u0110\u00ccNH GI\u00d3T 35m2 x 4t\u1ea7ng z\u00e1 4,x t\u1ef7 + Nh\u00e0 m\u1edbi c\u1ee9ng Tr\u01b0\u1edbc nh\u00e0 tho\u00e1ng + S\u1ed5 \u0111\u1ecf ph\u00e1p l\u00fd \u0111\u1ea7y \u0111\u1ee7 \u260e\ufe0f Ib e Zalo 0978.795.193 ... c\u00f3 ng\u00f4i nh\u00e0 5 t\u1ea7ng, t\u1ef1 x\u00e2y ki\u00ean ...",
+            "snippet_highlighted_words": [
+                "NH\u00c0",
+                "Nh\u00e0",
+                "nh\u00e0",
+                "nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 15,
+            "title": "H\u1ed9i Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Gi\u00e1 R\u1ebb T\u1ea1i H\u1ea3i Ph\u00f2ng",
+            "link": "https://www.facebook.com/groups/1372684209438986/?locale=vi_VN",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1372684209438986/?locale=vi_VN&usg=AOvVaw1qzJ7ypWccNq2p_J_96_GO",
+            "displayed_link": "https://www.facebook.com \u203a Nh\u00f3m Facebook",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc206beeefcf7e474a446372e7b1f84812dd.png",
+            "snippet": "LuaGa Land ... m\u1ef9 ( k30). Di\u1ec7n t\u00edch 55m2, ng\u00f5 oto \u0111\u1ec3 ng\u00e0y \u0111\u00eam. ... \u0111\u1ec3 xe ri\u00eang.Ch\u1ec9 vi\u1ec7c x\u00e1ch vali v\u1ec1 \u1edf.Gi\u1ea5y t\u1edd cc. ... tri\u1ec3n khai. ... Kh\u00f4ng c\u00f3 m\u00f4 t\u1ea3 \u1ea3nh. ... kh\u00e9p k\u00edn.",
+            "source": "facebook.com"
+        },
+        {
+            "position": 16,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T QU\u1eacN B\u00ccNH TH\u1ea0NH - TPHCM",
+            "link": "https://www.facebook.com/groups/1642453779410701/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1642453779410701/&usg=AOvVaw1iwChDoa39S41x57ZF7bCb",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc203fd6ed2d507353f19196e062af75ba9a.png",
+            "snippet": "KH\u00d4NG QUY HO\u1ea0CH - CH\u1ec8 NH\u1ec8NH 2 T\u1ef6. - Di\u1ec7n t\u00edch: 17.6m2 ( 4.2 x 6 ) SD (43.4m\u00b2). - Ki\u1ebfn tr\u00fac: 1 tr\u1ec7t, 2 l\u1ea7u \u0111\u00fac BTCT, 2PN, 3WC. ... \u0111\u01b0\u1eddng l\u1edbn 12m; - Ph\u00e1p l\u00fd: S\u1ed5 ...",
+            "source": "facebook.com"
+        },
+        {
+            "position": 17,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Ninh B\u00ecnh",
+            "link": "https://www.facebook.com/groups/1700365236913373/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1700365236913373/&usg=AOvVaw2nW2DsFeC9qnWozDqYsKie",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20b97efb78326460d32f6536a4f916a8ba.png",
+            "snippet": "Nh\u00e0 \u0111\u1ea5t Ninh B\u00ecnh ... No photo description available. ... T\u00f4ng ( s\u00e2n r\u1ed9ng \u0111\u1ec3 v\u1eeba 4 oto). ... No photo description available. ... No photo description available. ... s\u1eed ...",
+            "snippet_highlighted_words": [
+                "Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 18,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T LONG BI\u00caN - H\u00c0 N\u1ed8I",
+            "link": "https://www.facebook.com/groups/muabannhadatchungcuhanoi/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/muabannhadatchungcuhanoi/&usg=AOvVaw3oAERpabywG9QNw7asmlWI",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc2012fd721a65e63c9f3a7b3b84d4c368d4.png",
+            "snippet": "B\u00c1N \u0111\u1ea5t T\u1eb6NG nh\u00e0 3 t\u1ea7ng Dt 50 m2 - Ng\u00f5 r\u1ed9ng 4m th\u00f4ng \u00d4 t\u00f4 \u0111\u1ed7 c\u1eeda Gi\u00e1 \u0111\u1ea7u t\u01b0 5,25 t\u1ef7 . \u2611\ufe0f V\u1ecb tr\u00ed \u0111\u1eafc \u0111\u1ecba g\u1ea7n AEON MAIL Long Bi\u00ean. \u2611\ufe0f K\u00edch th\u01b0\u1edbc M\u1eb7t ti\u1ec1n , h\u00e2u ...",
+            "snippet_highlighted_words": [
+                "B\u00c1N",
+                "nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 19,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 V\u00c0 \u0110\u1ea4T \u0110\u00c0 N\u1eb4NG",
+            "link": "https://www.facebook.com/groups/190227648142747/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/190227648142747/&usg=AOvVaw0zwKzjPM-rTXahkGLhl1cI",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20a71afabe432ff48a5e00e730aa6ec5ab.png",
+            "snippet": "B\u1ea5t \u0110\u1ed9ng S\u1ea3n - \u0110\u00e0 N\u1eb5ng ... No photo description available. ... No photo description available. ... No photo description available. ... No photo description available.",
+            "source": "facebook.com"
+        },
+        {
+            "position": 20,
+            "title": "H\u1ed9i mua b\u00e1n nh\u00e0 \u0111\u1ea5t qu\u1eadn Ki\u1ebfn An- H\u1ea3i Ph\u00f2ng",
+            "link": "https://www.facebook.com/groups/225187944628303/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/225187944628303/&usg=AOvVaw0mtlDebMIuJpr1vkz0MKmC",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20348b24e87a18783da48d2305376807b4.png",
+            "snippet": "\u0110\u1ecbnh V\u1ecb S\u1ed1 \u0110i\u1ec7n Tho\u1ea1i, Theo D\u00f5... ... Tr\u1ea7n Nh\u00e2n T\u00f4ng ch\u1ec9 50m , ng\u00f5 Morning v\u00e0o t\u1eadn n\u01a1i . ... No photo description available. ... No photo description available. ... AD.",
+            "source": "facebook.com"
+        },
+        {
+            "position": 21,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T H\u00c0 \u0110\u00d4NG - H\u00c0 N\u1ed8I",
+            "link": "https://www.facebook.com/groups/223666044862422/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/223666044862422/&usg=AOvVaw3axBO7estMTr6lBbCD4se7",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc2034390f1fc9cfa621613dbe9ee429d5bf.png",
+            "snippet": "\u2668\ufe0f\u2668\ufe0fNH\u00c0 PHAN \u0110\u00ccNH GI\u00d3T 35m2 x 4t\u1ea7ng z\u00e1 4,x t\u1ef7 + Nh\u00e0 m\u1edbi c\u1ee9ng Tr\u01b0\u1edbc nh\u00e0 tho\u00e1ng + S\u1ed5 \u0111\u1ecf ph\u00e1p l\u00fd \u0111\u1ea7y \u0111\u1ee7 \u260e\ufe0f Ib e Zalo 0978.795.193 ... 56m x 5t\u1ea7ng x 4mt x 10X . Nh\u00e0 ...",
+            "snippet_highlighted_words": [
+                "NH\u00c0",
+                "Nh\u00e0",
+                "nh\u00e0",
+                "Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 22,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T C\u1ea6U GI\u1ea4Y - H\u00c0 N\u1ed8I",
+            "link": "https://www.facebook.com/groups/chungcu.nhatro/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/chungcu.nhatro/&usg=AOvVaw1lyTp_9XOJVKpWGAYTrv9j",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20b35f67cee378c398b0fc868fc358525c.png",
+            "snippet": "+ \u0110\u1ea4T \u0110\u1eb8P C\u1ea6U GI\u1ea4Y. HN. + dt: 91m \u00d7 2 t\u1ea7ng, nh\u00e0 c\u0169 , oto \u0111\u1ed7 c\u1eeda + s\u1ed5 vu\u00f4ng full th\u1ed5 c\u01b0 + Gi\u00e1: 12,9 t\u1ef7: Lh: (0397374283) ... PH\u00c2N L\u00d4 \u00d4 T\u00d4 \u0110\u1ed6 C\u1eecA . Nh\u00e0 \u0111\u1eb9p m\u1edbi ...",
+            "snippet_highlighted_words": [
+                "nh\u00e0",
+                "Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 23,
+            "title": "H\u1ed9i Mua B\u00e1n Nh\u00e0 v\u00e0 \u0110\u1ea5t T\u1ea1i \u0110\u00e0 N\u1eb5ng",
+            "link": "https://www.facebook.com/groups/405244942978818/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/405244942978818/&usg=AOvVaw04trc_zTnG4AxA9s9CzTMA",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc201f945e5b8e301c3393b985398f96fbdb.png",
+            "snippet": "\u2734\ufe0fNh\u00e0 m\u1edbi \u0111\u1eb9p full n\u1ed9i th\u1ea5t hi\u1ec7n \u0111\u1ea1i. ... \u2734\ufe0fC\u00f3 s\u00e2n \u0111\u1ec3 xe r\u1ed9ng r\u00e3i \u00f4t\u00f4 c\u00f3 th\u1ec3 v\u00e0o dc. \u2734\ufe0fC\u00f4ng n\u0103ng : 3 p ng\u1ee7, 3wc kh\u00e9p k\u00edn . p kh\u00e1ch, p b\u1ebfp, pshc, p th\u1edd .b\u00e1n c\u00f4ng ...",
+            "snippet_highlighted_words": [
+                "Nh\u00e0",
+                "b\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 24,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T \u0110\u00c0 N\u1eb4NG",
+            "link": "https://www.facebook.com/groups/hoimuabannhadattaidanang/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/hoimuabannhadattaidanang/&usg=AOvVaw0txWvV6T83Uz9fxSHOX7cB",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20d0e1ed85daaaf7806169b2aafeb6f03b.png",
+            "snippet": "S\u00e2n ch\u01a1i c\u1ee7a anh em C\u1ed9ng \u0111\u1ed3ng B\u0110S \u0110\u00e0 N\u1eb5ng.",
+            "source": "facebook.com"
+        },
+        {
+            "position": 25,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T QU\u1eacN 4 - TPHCM",
+            "link": "https://www.facebook.com/groups/334883536965707/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/334883536965707/&usg=AOvVaw0MfwIX-CYJp74QggVLZVaZ",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20dc8627164b8c7847d15566b34732433c.png",
+            "snippet": "V\u1eeaA \u1ede V\u1eeaA KINH DOANH. NH\u1ec8NH 5 T\u1ef6. ... - K\u1ebft c\u1ea5u: 1 tr\u1ec7t, 2 l\u1ea7u. 2PN, 2WC, ph\u00f2ng th\u1edd, kho, b\u1ebfp, s\u00e2n ph\u01a1i \u0111\u1ed3. \u0110\u1ea7y \u0111\u1ee7 c\u00f4ng n\u0103ng. ... tr\u01b0\u1eddng h\u1ecdc, Ch\u1ee3, Si\u00eau th\u1ecb. Ti\u1ec7n ...",
+            "source": "facebook.com"
+        },
+        {
+            "position": 26,
+            "title": "Mua b\u00e1n nh\u00e0 \u0111\u1ea5t v\u0129nh ph\u00fac (B\u1ea5t \u0110\u1ed9ng S\u1ea3n 88)",
+            "link": "https://www.facebook.com/groups/724624910941362/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/724624910941362/&usg=AOvVaw2nKXRkZrKh8H65wKWLsOj8",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc208b970ebe55cc85cde6a9a508a974fbb0.png",
+            "snippet": "This browser is not supported \u00b7 Mua b\u00e1n nh\u00e0 \u0111\u1ea5t v\u0129nh ph\u00fac (B\u1ea5t \u0110\u1ed9ng S\u1ea3n 88) \u00b7 T\u00e0i ch\u00ednh 2 t\u1ef7 e c\u1ea7n t\u00ecm \u0111\u1ea5t \u0110\u1ecbnh Trung, ho\u1eb7c Li\u00ean B\u1ea3o (\u01b0u ti\u00ean Di\u1ec7p Linh). \u00b7 B\u00e1n ...",
+            "snippet_highlighted_words": [
+                "b\u00e1n nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 27,
+            "title": "H\u1ed9i Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Qu\u1eadn Th\u1ee7 \u0110\u1ee9c - B\u00ecnh Th\u1ea1nh Gi\u00e1 R\u1ebb",
+            "link": "https://www.facebook.com/groups/bannhagiareuytin/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/bannhagiareuytin/&usg=AOvVaw1bn8NkGForipinr_9zuh6q",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20e6f337848a1cff930decc8169e9afa43.png",
+            "snippet": "Ch\u00fang t\u00f4i hy v\u1ecdng s\u1ebd l\u00e0 c\u1ea7u n\u1ed1i gi\u00fap cho vi\u1ec7c mua b\u00e1n nh\u00e0 c\u1ee7a m\u1ecdi ng\u01b0\u1eddi tr\u1edf n\u00ean \u0111\u01a1i gi\u1ea3n, nhanh ch\u00f3ng v\u00e0 uy t\u00edn h\u01a1n bao gi\u1edd h\u1ebft!",
+            "snippet_highlighted_words": [
+                "b\u00e1n nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 28,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T QU\u1eacN T\u00c2N B\u00ccNH - TPHCM",
+            "link": "https://www.facebook.com/groups/826137037780450/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/826137037780450/&usg=AOvVaw1tFwktKj1rGm7wna1gSW24",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc207f000d08f22ff9c90c10785fcd1b793b.png",
+            "snippet": "M\u00f4 t\u1ea3: - Khu v\u1ef1c \u0111\u1eb7t v\u0103n ph\u00f2ng, tr\u1ee5 s\u1edf, trung t\u00e2m qu\u1eadn 10. ... 900m2 s\u00e0n s\u1eed d\u1ee5ng c\u00f3 thang m\u00e1y. H\u1ec7 th\u1ed1ng PCCC, Camera, B\u1ea3o v\u1ec7 \u0111\u1ea7y \u0111\u1ee7 an. Ninh tuy\u1ec7t \u0111\u1ed1i. ... ph\u00f2ng, ...",
+            "source": "facebook.com"
+        },
+        {
+            "position": 29,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T GI\u00c1 R\u1eba QU\u1eacN B\u00ccNH T\u00c2N",
+            "link": "https://www.facebook.com/groups/238026470350295/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/238026470350295/&usg=AOvVaw2NSFOpD8lHObWCFCqB4WZm",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc203821caa5093332e6c3167c8322bff45e.png",
+            "snippet": "This browser is not supported \u00b7 H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T GI\u00c1 R\u1eba QU\u1eacN B\u00ccNH T\u00c2N \u00b7 B\u00e1n nh\u00e0 \u0111\u01b0\u1eddng s\u1ed1 5, B\u00ecnh T\u00e2n, 10m 20m, 13 t\u1ec9, Zalo 0934158357. \u00b7 S\u00e1t q6 duy chuy\u1ec3n ...",
+            "snippet_highlighted_words": [
+                "B\u00c1N NH\u00c0",
+                "B\u00e1n nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 30,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T T\u1eea LI\u00caM - H\u00c0 N\u1ed8I",
+            "link": "https://www.facebook.com/groups/1883962148499169/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1883962148499169/&usg=AOvVaw1EdmRe_obosMHy-stHhnUt",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc200664fd2221aada0d589ee2f8efa52f4f.png",
+            "snippet": "Di\u1ec7n t\u00edch 59m2, 6 t\u1ea7ng, 11 ph\u00f2ng, thang m\u00e1y. ... B\u00e1ch Khoa, g\u1ea7n s\u00e2n v\u1eadn \u0111\u1ed9ng M\u1ef9 \u0110\u00ecnh, ... Ng\u00f5 r\u1ed9ng, \u00f4 t\u00f4 t\u1ea3i \u0111\u1ed7 c\u1eeda, h\u1ec7 th\u1ed1ng PCCC \u0111\u1ea7y \u0111\u1ee7. D\u00f2ng ti\u1ec1n 600tr/ n\u0103m.",
+            "source": "facebook.com"
+        },
+        {
+            "position": 31,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Ninh B\u00ecnh",
+            "link": "https://www.facebook.com/groups/152295985238117/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/152295985238117/&usg=AOvVaw1v8_Ymsvhf7Z3tJQN_KRWq",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc207dd37e6a5f53cbc9efd0d73acaab263e.png",
+            "snippet": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t c\u00f4ng khai.",
+            "snippet_highlighted_words": [
+                "B\u00e1n Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 32,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Bi\u00ean H\u00f2a - \u0110\u1ed3ng Nai \u2611\ufe0f",
+            "link": "https://www.facebook.com/groups/739009816205759/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/739009816205759/&usg=AOvVaw3T2JOYlEeb-83vJnUWs6mG",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20788c3429c3ac0aebeb38e83e62879718.png",
+            "snippet": "Nh\u00e0 \u0110\u1ea5t Long Th\u00e0nh C\u1ea9m M\u1ef9... ... Vi\u00ean. ... No photo description available. ... No photo description available. ... No photo description available. ... 12x20 gi\u00e1 ch\u1ed1t 8,5 ...",
+            "snippet_highlighted_words": [
+                "Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 33,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T QU\u1eacN 10 - TPHCM",
+            "link": "https://www.facebook.com/groups/234253297138322/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/234253297138322/&usg=AOvVaw27r4duxinyaVaoX7eOfwbn",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20d3cacfa0815a0d64559e07e327cc64c7.png",
+            "snippet": "M\u00f4 t\u1ea3: - Khu v\u1ef1c \u0111\u1eb7t v\u0103n ph\u00f2ng, tr\u1ee5 s\u1edf, trung t\u00e2m qu\u1eadn 10. ... 900m2 s\u00e0n s\u1eed d\u1ee5ng c\u00f3 thang m\u00e1y. H\u1ec7 th\u1ed1ng PCCC, Camera, B\u1ea3o v\u1ec7 \u0111\u1ea7y \u0111\u1ee7 an. Ninh tuy\u1ec7t \u0111\u1ed1i. ... ph\u00f2ng, ...",
+            "source": "facebook.com"
+        },
+        {
+            "position": 34,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T B\u00ccNH D\u01af\u01a0NG",
+            "link": "https://www.facebook.com/groups/1381459935312895/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1381459935312895/&usg=AOvVaw3XBoJBrez3Z6qlWeWjnvez",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20d9d751e7166ebb69e93cdd715385b702.png",
+            "snippet": "H\u1ed9i B\u1ea5t \u0110\u1ed9ng S\u1ea3n T\u00e2n Uy\u00ean-... ... No photo description available. ... No photo description available. ... T\u1ebf Mi\u1ec1n \u0110\u00f4ng vs Aeon ch\u1ec9 5p. ... Mi\u1ec1n \u0110\u00f4ng vs Aeon ch\u1ec9 5p.",
+            "source": "facebook.com"
+        },
+        {
+            "position": 35,
+            "title": "H\u1ed9i Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Qu\u1eadn Nam - B\u1eafc T\u1eeb Li\u00eam H\u00e0 N\u1ed9i LH ...",
+            "link": "https://www.facebook.com/groups/1062666580443527/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1062666580443527/&usg=AOvVaw3Cda83iYEo_LXgrz5PAIdZ",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc206365757c5620a3c1ab479d017ebf840f.png",
+            "snippet": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Qu\u1eadn Nam ... ... M\u1ef9 \u0110\u00ecnh L\u00ea \u0110\u1ee9c Th\u1ecd 42m x 5t mt 4m, gi\u00e1 7,5 t\u1ef7. M\u1eb6T NG\u00d5 - \u00d4 T\u00d4 QUA C\u1ed4NG - FULL N\u1ed8I TH\u1ea4T. ... No photo description available. ... No ...",
+            "snippet_highlighted_words": [
+                "B\u00e1n Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 36,
+            "title": "Nh\u00e0 \u0110\u1ea5t Gi\u00e1 R\u1ebb H\u00e0 N\u1ed9i",
+            "link": "https://www.facebook.com/groups/776852575808889/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/776852575808889/&usg=AOvVaw3wAXITXNZ3uVSABAq1-jv6",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc209b82a53266eee4c2c46d8641b655a67f.png",
+            "snippet": "N\u01a1i \u0111\u0103ng tin mua b\u00e1n, sang nh\u01b0\u1ee3ng nh\u00e0 \u0111\u1ea5t, kios, c\u1eeda h\u00e0ng mi\u1ec5n ph\u00ed d\u00e0nh cho t\u1ea5t c\u1ea3 member. G\u1eb7p g\u1ee1 trao \u0111\u1ed5i, h\u1ecdc h\u1ecfi kinh nghi\u1ec7m v\u1ec1 mua b\u00e1n, phong thu\u1ef7,...",
+            "snippet_highlighted_words": [
+                "mua b\u00e1n",
+                "nh\u00e0",
+                "mua b\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 37,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Nha Trang Kh\u00e1nh H\u00f2a",
+            "link": "https://www.facebook.com/groups/242813842940804/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/242813842940804/&usg=AOvVaw0OcU2DLhb-BV0KtZTT8V95",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20fe6af42c731ececd45e416d30695e42d.png",
+            "snippet": "m\u00e1t m\u1ebb, khu d\u00e2n c\u01b0 \u0111\u00f4ng \u0111\u00fac, \u0111\u01b0\u1eddng \u00f4 t\u00f4 t\u1eadn n\u01a1i. ... See more.",
+            "source": "facebook.com"
+        },
+        {
+            "position": 38,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T QU\u1eacN THANH XU\u00c2N - H\u00c0 N\u1ed8I",
+            "link": "https://www.facebook.com/groups/bdshanoigroup/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/bdshanoigroup/&usg=AOvVaw00Xhr8XqAzPtylLFXfxfYI",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc203f348089f68137e8608aeb0a5bc14240.png",
+            "snippet": "C\u1ea6N B\u00c1N G\u1ea4P M\u1eb6T \u0110\u01af\u1edcNG 2.5 \u2013 \u0110\u1ecaNH C\u00d4NG \u2013 KINH DOANH S\u1ea6M U\u1ea4T \u2013 42m2 gi\u00e1 3,2 t\u1ef7 - Lh 0968958193 ... 38m2 x 5 t\u1ea7ng x mt 3.8m TT Thanh Xu\u00e2n. ... Ninh. ... v\u0129nh vi\u1ec5n.",
+            "snippet_highlighted_words": [
+                "B\u00c1N"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 39,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T QU\u1eacN 3 - TPHCM",
+            "link": "https://www.facebook.com/groups/330672933985416/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/330672933985416/&usg=AOvVaw1Cy3WPQsNW-xsv9pRo1Rrf",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20bc49b039a3ffa743cc1f7358e8ede24d.png",
+            "snippet": "QUANG TRUNG. Gi\u00e1: 2 t\u1ef7. M\u00f4 t\u1ea3. \u2022 37m2, 1 tr\u1ec7t, 1 l\u1eedng, G\u1ed3m ph\u00f2ng ng\u1ee7, wc, ph\u00f2ng kh, b\u1ebfp, s\u00e2n \u0111\u1ec3 xe. \u2022 10m ra h\u1ebbm xe t\u1ea3i, 30m ra m\u1eb7t \u0111\u01b0\u1eddng Phan Huy \u00cdch. \u2022 1/ ...",
+            "source": "facebook.com"
+        },
+        {
+            "position": 40,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Qu\u1eadn 1, 3, 5, 6, 10, 11 TP.HCM",
+            "link": "https://www.facebook.com/groups/1886741114957314/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1886741114957314/&usg=AOvVaw0pogQB9yH5U0BPDrzE7DaR",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20ecc01108c086d0c1b827ac7069ff7a97.png",
+            "snippet": "B\u00e1n mi\u1ebfng \u0111\u1ea5t g\u1ea7n ngay nh\u00e0 m\u00e1y b\u1ed9t ng\u1ecdt Vedan, mua cho thu\u00ea li\u1ec1n 3tr/th\u00e1ng. \u0110\u01b0\u1eddng nh\u1ef1a hi\u1ec7n h\u1eefu. Dt: 255m2 gi\u00e1 410tr. Bao s\u1ed5. LH: 0765527793 ... \u0110\u01b0\u1eddng tr\u01b0\u1edbc nh\u00e0 ...",
+            "snippet_highlighted_words": [
+                "B\u00e1n",
+                "nh\u00e0",
+                "mua",
+                "nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 41,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T H\u00c0 N\u1ed8I",
+            "link": "https://www.facebook.com/groups/534523937040498/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/534523937040498/&usg=AOvVaw0PAnpMYXIK838vfJhsmJom",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20a828ca353e671ee7b45b73a7a4739c4e.png",
+            "snippet": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T H\u00c0 N\u1ed8I Li\u00ean H\u1ec7 0984467395 k\u00eanh youtube : Nguy\u1ec5n D\u01b0\u01a1ng - Nh\u00e0 \u0111\u1ea5t h\u00e0 N\u1ed9i link : https://www.youtube.com/user/desmondshea fanpage : mua...",
+            "snippet_highlighted_words": [
+                "B\u00c1N NH\u00c0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 42,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T QU\u1eacN \u0110\u1ed0NG \u0110A - H\u00c0 N\u1ed8I",
+            "link": "https://www.facebook.com/groups/187460525018343/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/187460525018343/&usg=AOvVaw3xxz2x-kmx91VFGzIt6dMX",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc201b5e8824490ff6b9fc499f95815bf8a2.png",
+            "snippet": "+ Nh\u00e0 m\u1eb7t ng\u00f5 \u00f4 t\u00f4 tr\u00e1nh kinh doanh s\u1ea7m u\u1ea5t, g\u1ea7n ch\u1ee3, kinh doanh v\u00f4 \u0111\u1ecbch. ... tr\u01b0\u1eddng c\u1ea5p 3 \u0110\u1ed1ng \u0110a n\u00ean tho\u00e1ng m\u00e1t v\u00f4 c\u00f9ng. + Nh\u00e0 ch\u1ee7 t\u1ef1 x\u00e2y r\u1ea5t ch\u1eafc ch\u1eafn, thi\u1ebft ...",
+            "snippet_highlighted_words": [
+                "Nh\u00e0",
+                "Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 43,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T H\u00c0 T\u0128NH CH\u00cdNH CH\u1ee6",
+            "link": "https://www.facebook.com/groups/651192952386253/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/651192952386253/&usg=AOvVaw2G8h2ShhWIr1ElAJ5eoMqx",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc206e631d02254e4bb644a0563340f43a97.png",
+            "snippet": "Mua b\u00e1n nh\u00e0 \u0111\u1ea5t t\u1ea1i H\u00e0 T\u0129nh ch\u00ednh ch\u1ee7 v\u1edbi kh\u00e1ch h\u00e0ng mi\u1ec5n trung gian.",
+            "snippet_highlighted_words": [
+                "b\u00e1n nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 44,
+            "title": "MUA B\u00c1N NH\u00c0, \u0110\u1ea4T TH\u1ed4 C\u01af H\u00c0 N\u1ed8I",
+            "link": "https://www.facebook.com/groups/2220183538268152/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/2220183538268152/&usg=AOvVaw2-1jK1FOvwrckQ49HggtbF",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20cd8bbd021e16adc5a94b1be69eb7ed1c.png",
+            "snippet": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T H\u00c0 N\u1ed8I ... No photo description available. ... No photo description available. ... MP X\u00c3 \u0110\u00c0N 80M - 24,5T\u1ef6 R\u1eba NH\u1ea4T PH\u1ed0. ... 76/80m2. ... No photo ...",
+            "snippet_highlighted_words": [
+                "B\u00c1N NH\u00c0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 45,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T AN GIANG",
+            "link": "https://www.facebook.com/groups/2931626076911680/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/2931626076911680/&usg=AOvVaw1eLQdJriV9KOAAViz0uklw",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20f9438e08ac0d657ea78c52f4851f06f5.png",
+            "snippet": "B\u1ea5t \u0110\u1ed9ng S\u1ea3n An Giang ... No photo description available. ... No photo description available. ... Nh\u00e0 1 l\u1ea7u Nh\u00e1nh Tr\u1ea7n H\u01b0ng \u0110\u1ea1o M\u1ef9 Th\u1edbi. ... No photo description ...",
+            "snippet_highlighted_words": [
+                "Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 46,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T CH\u00cdNH CH\u1ee6 GI\u00c1 R\u1eba TP.HCM",
+            "link": "https://www.facebook.com/groups/timnhadat.net.vn.muabannhadatchinhchugiaretphcm/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/timnhadat.net.vn.muabannhadatchinhchugiaretphcm/&usg=AOvVaw3uSHwRkU93MK4GjHwvi2S6",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc2030927d870cb2294b8023002f9da416d0.png",
+            "snippet": "H\u1ed9i Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t TP.HCM ... PH\u01af\u1edcNG LONG H\u01af\u01a0NG TP B\u00c0 R\u1ecaA. ... No photo description available. ... l\u00f4 \u0111\u1ea5t v\u01b0\u1eddn c\u00f3 s\u1eb5n th\u1ed5 c\u01b0. ... No photo description available. ... No ...",
+            "snippet_highlighted_words": [
+                "Mua B\u00e1n Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 47,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t An Giang",
+            "link": "https://www.facebook.com/groups/muabannhadatangiang/?locale=vi_VN",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/muabannhadatangiang/?locale=vi_VN&usg=AOvVaw1NTH5SNoAllcN69kO2q7FK",
+            "displayed_link": "https://www.facebook.com \u203a Nh\u00f3m Facebook",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20becb1e38e82093303d136475dfc22b34.png",
+            "snippet": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t An Giang - Th\u00e0nh vi\u00ean c\u1ed9ng \u0111\u1ed3ng Nh\u00e0 \u0110\u1ea5t An Giang. \u2b50 Website: www.nhadatangiang.vn \u2b50 T\u00e0i li\u1ec7u c\u1ed9ng \u0111\u1ed3ng: www.nhadatangiang.vn/docs...",
+            "snippet_highlighted_words": [
+                "B\u00e1n Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 48,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T H\u00c0 N\u1ed8I",
+            "link": "https://www.facebook.com/groups/nhadathanoi.muaban/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/nhadathanoi.muaban/&usg=AOvVaw0UEN1ZTXB23Ut2XJGi4sMx",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20e9b374d9cf9f375bd22db3ddc1b85205.png",
+            "snippet": "ctl. 2. #Ph\u1ed1_\u0110\u1ed9i_C\u1ea5n: g\u1ea7n Linh Lang, dt 35m2, Mt 4m, c\u00e1ch \u00f4 t\u00f4 kho\u1ea3ng 50m, ng\u00f5 th\u00f4ng b\u00e0n c\u1edd, gi.\u00e1 5.7 t\u1ef7 ctl. - S\u1ed5 CC, chu\u1ea9n ph\u00e1p l\u00ed, \u0111\u1eb9p nh\u01b0 t\u1edd A4. - H\u1ed7 tr\u1ee3 ...",
+            "snippet_highlighted_words": [
+                "b\u00e0n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 49,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t: \u0110\u00d4NG ANH, M\u00ca LINH, S\u00d3C S\u01a0N",
+            "link": "https://www.facebook.com/groups/muabannhadatdonganhmelinhsocson/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/muabannhadatdonganhmelinhsocson/&usg=AOvVaw2roYw3cn2Ucx9Gt3EQiBRg",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20ef686f76968f60e522541c51de78c82e.png",
+            "snippet": "This browser is not supported \u00b7 Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t: \u0110\u00d4NG ANH, M\u00ca LINH, S\u00d3C S\u01a0N \u00b7 ch\u00ednh ch\u1ee7 em c\u1ea7n b\u00e1n 140m \u0111\u1ea5t chia \u0111\u01b0\u1ee3c 2 l\u00f4 t\u1ea1i \u0111\u1ea1i \u00b7 T\u00e0i ch\u00ednh 1,5 t\u1ec9 tr\u1edf l\u1ea1i ...",
+            "snippet_highlighted_words": [
+                "B\u00e1n Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 50,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T TUY H\u00d2A",
+            "link": "https://www.facebook.com/groups/1442396289360149/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1442396289360149/&usg=AOvVaw0frfkwbqySBWz7bKNf1lIJ",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20a7ef520c4839b45fbbfb63a113db1f8b.png",
+            "snippet": "\u0110\u1ed3 \u0102n V\u1eb7t Tuy Ho\u00e0 ... S\u1eb5n_Gi\u00e1 4.x t\u1ef7_ \u260e\ufe0fLh 0909 0403 59 (em Ki\u1ec7m ). ... s\u01a1, nh\u1eefng b\u00e3i bi\u1ec3n tuy\u1ec7t \u0111\u1eb9p v\u00e0 v\u0103n h\u00f3a \u0111\u1ed9c \u0111\u00e1o. ... nh\u1eefng \u0111i\u1ec3m \u0111\u1ebfn m\u1edbi l\u1ea1, ch\u01b0a b\u1ecb th\u01b0\u01a1ng m\u1ea1i ...",
+            "source": "facebook.com"
+        },
+        {
+            "position": 51,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T T\u00c2Y NINH",
+            "link": "https://www.facebook.com/groups/muabannhadat123/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/muabannhadat123/&usg=AOvVaw0gzSDzkNCvQNc5WYLhQGvZ",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20f10b84091e4ac99052f23882afbacba0.png",
+            "snippet": "C\u1ea7n b\u00e1n 122.5m2 (ngang 6m) s\u00e1t trung t\u00e2m Th\u1ecb tr\u1ea5n, c\u00f3 th\u1ed5 c\u01b0, \u0111\u01b0\u1eddng \u0110-52 s\u1eafp l\u00ean nh\u1ef1a 20m, T\u00e2n Phong, T\u00e2n Bi\u00ean, c\u00e1ch Qu\u1ed1c l\u1ed9 c\u1ee1 1km. Gi\u00e1 b\u00e1n: 3xx tri\u1ec7u (x nh\u1ecf, ...",
+            "snippet_highlighted_words": [
+                "b\u00e1n",
+                "b\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 52,
+            "title": "Mua b\u00e1n nh\u00e0 \u0111\u1ea5t Nha trang - Kh\u00e1nh h\u00f2a",
+            "link": "https://www.facebook.com/groups/1324458744308070/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1324458744308070/&usg=AOvVaw3V6Kr-n4w6PhcJ9pFXxXgk",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20658b773117078742947325c98dedee6b.png",
+            "snippet": "\u260e\u260e B\u00c1N \u0110\u1ea4T M\u1eb6T TI\u1ec0N \u0110\u01af\u1edcNG NGUY\u1ec4N CH\u00cdCH, V\u0128NH HO\u00c0, NHA TRANG( DT: 66,4M2 =b3,1 t\u1ef7).",
+            "snippet_highlighted_words": [
+                "B\u00c1N",
+                "NHA"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 53,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t T\u00e2y Ninh",
+            "link": "https://www.facebook.com/groups/muabannhadattayninh/?locale=vi_VN",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/muabannhadattayninh/?locale=vi_VN&usg=AOvVaw2b5mAms6W0R4NjqBHXePgm",
+            "displayed_link": "https://www.facebook.com \u203a Nh\u00f3m Facebook",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc2037b26f5f2966b0e8ea45ee38213f4619.png",
+            "snippet": "Mua B\u00e1n, K\u00fd G\u1eedi Mi\u1ec5n Ph\u00ed Nh\u00e0 \u0110\u1ea5t T\u00e2y Ninh - Li\u00ean h\u1ec7: 090 9911 092 - 09699 67670 B\u1ea1n c\u00f3 th\u1ec3 \u0111\u0103ng b\u00e0i v\u00e0 cung c\u1ea5p th\u00f4ng tin ch\u00fang t\u00f4i s\u1ebd gi\u00fap b\u1ea1n mua ho\u1eb7c...",
+            "snippet_highlighted_words": [
+                "Mua B\u00e1n",
+                "Nh\u00e0",
+                "mua"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 54,
+            "title": "H\u1ed9i Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t TP.HCM",
+            "link": "https://www.facebook.com/groups/muabannhdat/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/muabannhdat/&usg=AOvVaw3Uig3dSDDBjJhqH2VpgKVL",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc2089d0877a68f84b68f2be122c8ab1c5df.png",
+            "snippet": "H\u1ed9i Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t TP.HCM ... \u2713 b\u00e1n d\u00e3y tr\u1ecd t\u1ea1i x\u00e3 T\u00e2n Th\u00f4ng H\u1ed9i C\u1ee7 Chi tp HCM . ... No photo description available. ... No photo description available. ... 1 ...",
+            "snippet_highlighted_words": [
+                "Mua B\u00e1n Nh\u00e0",
+                "b\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 55,
+            "title": "H\u1ed9i mua b\u00e1n nh\u00e0 \u0111\u1ea5t B\u1ea3o L\u00e2m",
+            "link": "https://www.facebook.com/groups/138634450041016/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/138634450041016/&usg=AOvVaw3-DnfrbHVOGCQ6-ozB4O5g",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20bd4e6ba7c9d2255d2dcdcaf04e5d21d2.png",
+            "snippet": "M\u1eb7t \u0110\u01b0\u1eddng Tr\u1ea7n H\u01b0ng \u0110\u1ea1o L\u1ed9c S\u01a1n Tp B\u1ea3o L\u1ed9c. di\u1ec7n t\u00edch 10x30 N\u1edf h\u1eadu ch\u1eef L14m.C\u00f3 150m\u00b2 th\u1ed5 c\u01b0. Gi\u00e1 ...",
+            "source": "facebook.com"
+        },
+        {
+            "position": 56,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T TP VINH",
+            "link": "https://www.facebook.com/groups/374799543142781/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/374799543142781/&usg=AOvVaw3NhO9Qj2OPm0_Vr5gl2pI6",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20bfa7f027133c68209d8666ed7fefbc7a.png",
+            "snippet": "Ch\u00ednh ch\u1ee7 c\u1ea7n b\u00e1n 2 l\u00f4 \u0111\u1ea5t : 1. L\u00f4 \u0111\u1ea5t H\u01b0ng \u0110\u00f4ng , Di\u1ec7n t\u00edch 80m2, \u0111\u01b0\u1eddng 12m c\u00f3 v\u1ec9a h\u00e8 . Gi\u00e1 1 t\u1ef7 Xxx. 2. L\u00f4 \u0110\u1ea5t Nghi Li\u00ean, Di\u1ec7n t\u00edch 141m2 n\u1edf h\u1eadu, \u0111\u01b0\u1eddng 4,5m ( ...",
+            "snippet_highlighted_words": [
+                "b\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 57,
+            "title": "NH\u00c0 \u0110\u1ea4T GI\u00c1 R\u1eba H\u00c0 N\u1ed8I",
+            "link": "https://www.facebook.com/groups/291379267732827/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/291379267732827/&usg=AOvVaw1iAq8e8gBbyydpqmMGfaYl",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20742a0ac291ab913f0c2290163290cfeb.png",
+            "snippet": "\u0110\u1ec3 ti\u1ebft ki\u1ec7m th\u1eddi gian, chi ph\u00ed c\u0169ng nh\u01b0 \u0111\u1ec3 t\u0103ng th\u00eam s\u1ef1 hi\u1ec7u qu\u1ea3 trong vi\u1ec7c mua - b\u00e1n b\u1ea5t \u0111\u1ed9ng s\u1ea3n cho qu\u00fd kh\u00e1ch h\u00e0ng. Ch\u00fang t\u00f4i chuy\u00ean nh\u1eadn k\u00fd g\u1eedi nh\u00e0...",
+            "snippet_highlighted_words": [
+                "mua",
+                "b\u00e1n",
+                "nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 58,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T \u0110\u00d4NG ANH - H\u00c0 N\u1ed8I",
+            "link": "https://www.facebook.com/groups/527699640701960/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/527699640701960/&usg=AOvVaw1X7DD_nQMIPNduyT556vja",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc202cf9db91a9894e5e32fbbc6acdf54945.png",
+            "snippet": "Tuy\u1ec7t v\u1eddi, Ch\u00ednh ch\u1ee7 c\u1ea7n b\u00e1n 46m2 m\u1ea3nh \u0111\u1ea5t th\u00f4n v\u1ec7 nam h\u1ed3ng,mt 5m \u0111\u1eb9p nh\u01b0 trong tranh,\u00ea t\u00f4 v\u00e0o \u0111\u1ea5t, gi\u00e1 nh\u1ec9nh 2 t\u1ef7. Ib \u0111\u1ec3 \u0111\u01b0\u1ee3c xem \u0111\u1ea5t ch\u1ed1t c\u1ecdc ... \u2713G\u1ea7n c\u1ea7u ...",
+            "snippet_highlighted_words": [
+                "b\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 59,
+            "title": "H\u1ed9i Nh\u00f3m B\u1ea5t \u0111\u1ed9ng s\u1ea3n Mua b\u00e1n nh\u00e0 \u0111\u1ea5t",
+            "link": "https://www.facebook.com/groups/honghai1202/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/honghai1202/&usg=AOvVaw0MVoFdtVfw7pGcjJuK0rp2",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc208ab546db2489dd4c5f4d2d646f3745df.png",
+            "snippet": "xin ch\u00e0o \u0111\u00f3n t\u1ea5t c\u1ea3 c\u00e1c b\u1ea1n \u0111\u00e3 \u0111\u1ebfn v\u1edbi nh\u00f3m \" B\u1ea5t \u0111\u1ed9ng s\u1ea3n- Trao \u0111\u1ed5i th\u00f4ng tin, mua b\u00e1n nh\u00e0 \u0111\u1ea5t\" D\u01b0\u1edbi \u0111\u00e2y l\u00e0 \u00fd ngh\u0129a v\u00e0 m\u1ee5c ti\u00eau c\u1ee7a nh\u00f3m khi ti\u1ebfp...",
+            "snippet_highlighted_words": [
+                "b\u00e1n nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 60,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T TP. B\u00c0 R\u1ecaA \u2713\u20dd",
+            "link": "https://www.facebook.com/groups/352965991838790/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/352965991838790/&usg=AOvVaw3nTZHZk15HalgpkLdyGglQ",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc205fd8eaacbef605f16f10c75716e1beef.png",
+            "snippet": "Ch\u1ee7 c\u1ea7n b\u00e1n g\u1ea5p C\u0103n nh\u00e0 1 tr\u1ec7t 1 l\u1ea7u ngay ng\u00e3 5 long \u0111i\u1ec1n Tpbr. t\u1ed5ng dt 241 m c\u00f3 80 tc Gi\u00e1 2 t\u1ef7 4 50 tr. lh em xem nh\u00e0 nh\u00e9 0961295526 em xin c\u1ea3m \u01a1n. No photo ...",
+            "snippet_highlighted_words": [
+                "b\u00e1n",
+                "nh\u00e0",
+                "nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 61,
+            "title": "H\u1ed9i mua b\u00e1n nh\u00e0 \u0111\u1ea5t qu\u1eadn Ki\u1ebfn An- H\u1ea3i Ph\u00f2ng",
+            "link": "https://www.facebook.com/groups/225187944628303/?locale=vi_VN",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/225187944628303/?locale=vi_VN&usg=AOvVaw3WsVAhzny867UKeW33YWiJ",
+            "displayed_link": "https://www.facebook.com \u203a Nh\u00f3m Facebook",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc204f4767f6c449925fddd99483918f1400.png",
+            "snippet": "\u0110\u1ecbnh V\u1ecb S\u1ed1 \u0110i\u1ec7n Tho\u1ea1i, Theo D\u00f5... ... Ch\u00ednh ch\u1ee7 g\u1eedi b\u00e1n c\u0103n bi\u1ec7t th\u1ef1 Mini view H\u1ed3 \u00d4ng B\u00e1o. ... Kh\u00f4ng c\u00f3 m\u00f4 t\u1ea3 \u1ea3nh. ... Kh\u00f4ng c\u00f3 m\u00f4 t\u1ea3 \u1ea3nh. ... B\u00e1n nh\u00e0 Mi\u1ebfu Hai X\u00e3. 51m2 ...",
+            "snippet_highlighted_words": [
+                "B\u00e1n nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 62,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t H\u1ea1 Long",
+            "link": "https://www.facebook.com/groups/967257653332350/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/967257653332350/&usg=AOvVaw0i5gbY4Z_hvXCnRPQKXy--",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc201c4e9a13585c1d52e71965fdc68be856.png",
+            "snippet": "Nh\u00e0 \u0111\u1ea5t H\u1ea1 Long - Qu\u1ea3ng Ninh ... No photo description available. ... Ch\u00ednh ch\u1ee7 b\u00e1n nh\u00e0 khu v\u1ef1c c\u1ed9t 5 sau t\u1ec9nh \u1ee7y. ... No photo description available. ... No photo ...",
+            "snippet_highlighted_words": [
+                "b\u00e1n nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 63,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Tuy\u00ean Quang",
+            "link": "https://www.facebook.com/groups/1715790181994165/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1715790181994165/&usg=AOvVaw1bzClDcVDz0HlkhMHB4MS7",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20a38ef8c6c4b799573e100e22610b6590.png",
+            "snippet": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Tuy\u00ean Qua... ... No photo description available. ... BDS.k\u00eanh \u0111\u1ea7u t\u01b0 c\u1ee7a t\u1ea7m nh\u00ecn. T\u1ea1i Tuy\u00ean Quang c\u00f3 Danko Center. Hotline 0866419316. ... \u0110\u1ed3ng Y\u00ean ...",
+            "snippet_highlighted_words": [
+                "B\u00e1n Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 64,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T H\u00c0 N\u1ed8I CH\u00cdNH CH\u1ee6",
+            "link": "https://www.facebook.com/groups/2266242860178341/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/2266242860178341/&usg=AOvVaw1pj7jkKfDzwCKN8uHn8aTT",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc2012d724aa1e0831df4c755e7e17e4528c.png",
+            "snippet": "This browser is not supported \u00b7 MUA B\u00c1N NH\u00c0 \u0110\u1ea4T H\u00c0 N\u1ed8I CH\u00cdNH CH\u1ee6 \u2713 \u00b7 M\u1ed7i ng\u01b0\u1eddi gi\u00fap e 1 v\u00e0i m\u00f3n \u1ea1. V\u1ee3 ck e ngh\u1ec9 b\u00e1n thanh l\u00fd to\u00e0n b\u1ed9 c\u1eeda h\u00e0ng \u0111\u1ed3 N\u1ed9i \u0110\u1ecba",
+            "snippet_highlighted_words": [
+                "B\u00c1N NH\u00c0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 65,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t \u0110\u00e0 L\u1ea1t",
+            "link": "https://www.facebook.com/groups/muabannhadalat/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/muabannhadalat/&usg=AOvVaw0xsq-huDw8haRV7SDH9qbf",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc201c7489c448fc0b1231a5b04d791c8bed.png",
+            "snippet": "Chuy\u00ean trang cung c\u1ea5p th\u00f4ng tin nh\u00e0 \u0111\u1ea5t t\u1ea1i \u0110\u00e0 L\u1ea1t, c\u00e1c ch\u00ednh s\u00e1ch, v\u0103n b\u1ea3n ph\u00e1p lu\u1eadt li\u00ean quan... K\u00fd g\u1eedi, mua b\u00e1n nh\u00e0 v\u00e0 \u0111\u1ea5t c\u00e1c lo\u1ea1i \u0111\u1ec1u n\u1eb1m \u1edf \u0111\u00e2y h\u1ebft...",
+            "snippet_highlighted_words": [
+                "b\u00e1n nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 66,
+            "title": "Mua b\u00e1n nh\u00e0 \u0111\u1ea5t ch\u01b0 s\u00ea, gia lai",
+            "link": "https://www.facebook.com/groups/394529494526746/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/394529494526746/&usg=AOvVaw3u5lSpHrvXQ40Uxig30TsR",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20172bc898d2e20dd9ecb8ec0b0fd6c85e.png",
+            "snippet": "Sang nh\u01b0\u1ee3ng l\u00f4 \u0111\u1ea5t c\u00f3 nh\u00e0 10x30 134tc t\u1ea1i mt li\u00ean x\u00e3 th\u00f4n 2 iablang ch\u01b0 s\u00ea gia lai. Gi\u00e1 b\u00e1n 1ty250. Lh 03393749952 ... \u271360M \u0111\u01b0\u1eddng b\u00ea t\u00f4ng s\u00e2u 40M c\u00f3 350M TC. \u2713 ...",
+            "snippet_highlighted_words": [
+                "nh\u00e0",
+                "b\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 67,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T \u0110\u1ee8C TR\u1eccNG",
+            "link": "https://www.facebook.com/groups/304324163053178/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/304324163053178/&usg=AOvVaw13FqMpG3z0I8OSBnZqLa5p",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc2083fb106e0161e381c15700cc77ceb9e0.png",
+            "snippet": "\u0110\u1ea5t f0 .s\u1ed5 m\u1edbi c\u00f2n th\u01a1m m\u00f9i m\u1ef1c. G\u1ea7n ch\u1ee3 T\u00e2n H\u1ed9i. Ra \u0111\u01b0\u1eddng nh\u1ef1a 50m.Xe h\u01a1i v\u00e0o t\u1eadn n\u01a1i. \u0110\u01b0\u1eddng th\u00f4ng.",
+            "source": "facebook.com"
+        },
+        {
+            "position": 68,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Qu\u1eadn B\u1eafc T\u1eeb Li\u00eam 0968706536",
+            "link": "https://www.facebook.com/groups/986025454881871/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/986025454881871/&usg=AOvVaw0Tc8nn0iTdR2-F1dV1ROG0",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc2028ea17167c7a541db649a899b7cebfb8.png",
+            "snippet": "Ch\u1ec9 2.9T\u1ef7 s\u1edf h\u1eefu c\u0103n 4T\u1ea7ng 1Tum 30m2 DI TR\u1ea0CH ho\u00e0i \u0111\u1ee9c - c\u00e1ch 50m ra \u0111\u01b0\u1eddng \u00f4 t\u00f4 th\u00f4ng. Ra \u0111\u01b0\u1eddng 3.5 500m . Ra nh\u1ed5n 2km . Xung quanh c\u1ef1c k\u1ef3 nhi\u1ec1u ti\u1ec7n \u00edch. LH: ...",
+            "source": "facebook.com"
+        },
+        {
+            "position": 69,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u00c2T HO\u1eb0NG H\u00d3A",
+            "link": "https://www.facebook.com/groups/1890627357881581/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1890627357881581/&usg=AOvVaw0RitQjir3Nse270h7fNpJz",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20cab5d20cd76a5e9fe379469f9b483e33.png",
+            "snippet": "Duy nh\u1ea5t l\u00f4 tr\u1ee5c ch\u00ednh m\u1eb7t b\u1eb1ng 64 ho\u1eb1ng h\u1ea3i. H\u01b0\u1edbng \u0111\u00f4ng m\u00e1t m\u1ebb \u0111\u01b0\u1eddng r\u1ed9ng 24m di\u1ec7n t\u00edch 10x20 gi\u00e1 b\u00e1n ch\u1ec9 h\u01a1n 8tr/m2. Lh 0979007088 ... No photo description ...",
+            "snippet_highlighted_words": [
+                "b\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 70,
+            "title": "H\u1ed9i mua b\u00e1n nh\u00e0 \u0111\u1ea5t B\u00ecnh ch\u00e1nh - B\u00ecnh T\u00e2n",
+            "link": "https://www.facebook.com/groups/2079269375452027/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/2079269375452027/&usg=AOvVaw01tLDcTNt2Rd33lDwGEOzI",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc2076657a64fc59a275587de195b70763bd.png",
+            "snippet": "T\u00cdCH 96M2 .G\u1ed2M 3 T\u1ea6NG GI\u00c1 NH\u1ec8NH 4 T\u1eceI. ... V\u1ee8C N\u1ede H\u1eacU, DI\u1ec6N T\u00cdCH C\u00d4NG NH\u1eacN TR\u00caN S\u1ed4 . ... H\u1ebbm xe h\u01a1i, th\u00f4ng ra h\u1ebbm 16 Nguy\u1ec5n V\u0103n C\u1ef1. ... c\u00f3 camera an ninh, h\u00e0ng x\u00f3m ...",
+            "source": "facebook.com"
+        },
+        {
+            "position": 71,
+            "title": "Mua b\u00e1n nh\u00e0 \u0111\u1ea5t Qu\u1eadn 1, Qu\u1eadn 3, Qu\u1eadn 5, Ph\u00fa Nhu\u1eadn, ...",
+            "link": "https://www.facebook.com/groups/444176979436639/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/444176979436639/&usg=AOvVaw30T6PnXDgsMDVIyyWYx_b2",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc2075052d0b7a8e00231e50836327707231.png",
+            "snippet": "NH\u00c0 \u0110\u1eb8P \u1ede NGAY - B\u00ccNH T\u00c2N GI\u00c1P T\u00c2N PH\u00da. M\u00f4 t\u1ea3: \u2611\ufe0f DT: 48m2 ( 4 x 12). \u2611\ufe0f K\u1ebft c\u1ea5u 1 tr\u1ec7t 2 l\u1ea7u s\u00e2n th\u01b0\u1ee3ng l\u00e0m BBQ, 3PN, 3WC, 1 Ph\u00f2ng b\u1ebfp tr\u00ean l\u1ea7u, nh\u00e0 ...",
+            "snippet_highlighted_words": [
+                "NH\u00c0",
+                "nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 72,
+            "title": "H\u1ed9i Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t TP.HCM",
+            "link": "https://www.facebook.com/groups/muabannhadatquantrungtamsaigon/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/muabannhadatquantrungtamsaigon/&usg=AOvVaw1ndq3lmPpJ8fi_kKwKSizX",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc2090e3ecf70462ae5dcbbca9e3833a1bdb.png",
+            "snippet": "Mua B\u00e1n Nh\u00e0 TP.HCM ... C\u00e1ch MT Nguy\u1ec5n Th\u00f4ng 100m,H\u1ebbm ba g\u00e1c, s\u1ea1ch \u0111\u1eb9p, khu vi\u00ean ch\u1ee9c \u1edf. ... DT 60m2. Ph\u00e1p l\u00fd r\u00f5 r\u00e0ng c\u00f4ng ch\u1ee9ng ngay. ... Alo em Tri\u1ec1u 0902518428 xem ...",
+            "snippet_highlighted_words": [
+                "B\u00e1n Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 73,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T QUY NH\u01a0N",
+            "link": "https://www.facebook.com/groups/1138801096151434/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1138801096151434/&usg=AOvVaw1Tok2pprYx8RyvLa282v-N",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc2093c6a6f4506847a4c201be530bf20f82.png",
+            "snippet": "B\u1ea4T \u0110\u1ed8NG S\u1ea2N QUY NH\u01a0N ... C\u1ea7n b\u00e1n nhanh chu\u1ed7i c\u0103n h\u1ed9 Altara Quy Nh\u01a1n. ... No photo description available. ... No photo description available. ... Nh\u01a1n. ... Quy Nh\u01a1n.",
+            "snippet_highlighted_words": [
+                "b\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 74,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Ch\u00e2u \u0110\u1ed1c",
+            "link": "https://www.facebook.com/groups/muabannhadatchaudoc/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/muabannhadatchaudoc/&usg=AOvVaw10Wk0H_wXX_O2vrH3JKxxB",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20d16d43f6c1ade1953b26610f63f5fdaa.png",
+            "snippet": "muabannhadatchaudoc Mua b\u00e1n nh\u00e0 \u0111\u1ea5t t\u1ea1i Ch\u00e2u \u0110\u1ed1c An Giang Th\u00e0nh vi\u00ean c\u1ee7a m\u1ea1ng x\u00e3 h\u1ed9i Nh\u00e0 \u0110\u1ea5t An Giang https://www.nhadatangiang.vn.",
+            "snippet_highlighted_words": [
+                "b\u00e1n nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 75,
+            "title": "H\u1ed9i Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Kh\u00f4ng Qua M\u00f4i Gi\u1edbi T\u1ea1i H\u1ea3i Ph\u00f2ng",
+            "link": "https://www.facebook.com/groups/MUABANNHADAT.HAIPHONG1/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/MUABANNHADAT.HAIPHONG1/&usg=AOvVaw3l3uwUHlzk9d2BSLKAUBvv",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20f9b66e8b49f816876e4768209d455443.png",
+            "snippet": "This browser is not supported \u00b7 H\u1ed9i Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Kh\u00f4ng Qua M\u00f4i Gi\u1edbi T\u1ea1i H\u1ea3i Ph\u00f2ng \u00b7 61,5 m2\u2665\ufe0f ki\u1ebfn phong - \u0110\u1ed3ng Th\u00e1i b\u00e1n! L\u00f4 11 \u260e\ufe0f 0934254555 \u00b7 S\u00e0o m\u1ed1t \u0111\u1ea5t ...",
+            "snippet_highlighted_words": [
+                "B\u00e1n Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 76,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Nh\u00e0 B\u00e8 TP.HCM",
+            "link": "https://www.facebook.com/groups/2171372146501107/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/2171372146501107/&usg=AOvVaw0ocDexbOGT92LgsOq-6xzl",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20311196b68e2e5061bbdd202a7a55125f.png",
+            "snippet": "GI\u00c1 R\u1eba - 72M2 - ch\u1ec9 tr\u00f2n 4 ty. H\u1ebbm 95/ L\u00ea V\u0103n L\u01b0\u01a1ng P. T\u00e2n Ki\u1ec3ng Q7. * Ngang 4m d\u00e0i 18m. * Hi\u1ec7n tr\u1ea1ng : 1tr\u1ec7t 1l\u1ea7u ( 3pn 1wc) ph\u00f2ng kh\u00e1ch r\u1ed9ng. ... ki\u1ec3ng, giao ...",
+            "source": "facebook.com"
+        },
+        {
+            "position": 77,
+            "title": "H\u1ed9i Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t TP H\u1ed3 Ch\u00ed Minh",
+            "link": "https://www.facebook.com/groups/1155796301178015/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1155796301178015/&usg=AOvVaw2QP87LmcMNKjLEo3rMZ5NF",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc202600d17e0d1b9c0ea5d88752010d2c49.png",
+            "snippet": "H\u1ed9i Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t TP.HCM ... No photo description available. ... M\u1edaI \u0110\u1eb8P - 4 x 18 - CH\u1ec8 7.3 T\u1ef6. ... No photo description available. ... No photo description available ...",
+            "snippet_highlighted_words": [
+                "Mua B\u00e1n Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 78,
+            "title": "Mua b\u00e1n nh\u00e0 \u0111\u1ea5t m\u00f3ng c\u00e1i",
+            "link": "https://www.facebook.com/groups/906838979347594/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/906838979347594/&usg=AOvVaw3vbbtvjnCRngorb0PU-gAw",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20a6c33ed9a7c2b4c35f2eb4df6a9e30f6.png",
+            "snippet": "N\u01a1i trao \u0111\u1ed5i th\u00f4ng tin v\u1ec1 b\u1ea5t \u0111\u1ed9ng s\u1ea3n TP M\u00f3ng C\u00e1i !",
+            "source": "facebook.com"
+        },
+        {
+            "position": 79,
+            "title": "Mua b\u00e1n nh\u00e0 \u0111\u1ea5t Qu\u1ea3ng Ninh",
+            "link": "https://www.facebook.com/groups/844120312335590/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/844120312335590/&usg=AOvVaw1Qrh68ooMjWAZ2t_0vChJF",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20cf54cba598550fa1383a302d6fdf7245.png",
+            "snippet": "Ch\u00ednh ch\u1ee7 s\u1eafp sang n\u01b0\u1edbc ngo\u00e0i ,. C\u1ea7n b\u00e1n m\u1ea3nh \u0111\u1ea5t 113,5m\u00b2 , B\u1eafc m\u00e3 1, g\u1ea7n tr\u01b0\u1eddng h\u1ecdc m\u1ea7m non, 10m kinh doanh bu\u00f4n b\u00e1n v\u1ea1n ngh\u00e0nh ngh\u1ec1. Gi\u00e1 ch\u1ec9 : 450tr. Lh: ...",
+            "snippet_highlighted_words": [
+                "b\u00e1n",
+                "b\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 80,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T \u0110\u1ee8C TR\u1eccNG",
+            "link": "https://www.facebook.com/groups/304324163053178/?locale=vi_VN",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/304324163053178/?locale=vi_VN&usg=AOvVaw3nLNWkXglN0HpDR3oHt_Vr",
+            "displayed_link": "https://www.facebook.com \u203a Nh\u00f3m Facebook",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc207385b752e37093fe8acb9aa5c83dcc46.png",
+            "snippet": "\u0110\u1ea5t trung t\u00e2m C\u01b0 X\u00e1 Li\u00ean Hi\u1ec7p, \u0110\u1ee9c Tr\u1ecdng, L\u00e2m \u0110\u1ed3ng. Di\u1ec7n t\u00edch: 13mx92m, 200m th\u1ed5 c\u01b0. G\u1ea7n trung t\u00e2m, g\u1ea7n ...",
+            "source": "facebook.com"
+        },
+        {
+            "position": 81,
+            "title": "Mua b\u00e1n nh\u00e0 \u0111\u1ea5t \u0110\u1ed3ng Nai",
+            "link": "https://www.facebook.com/groups/367869203361102/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/367869203361102/&usg=AOvVaw1bJVYvQQqg5cTF0Kpfs3YQ",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc200c20ff1e2e3fa46c4778e749183d33aa.png",
+            "snippet": "C\u1ea7n b\u00e1n \u0111\u1ea5t sau Tr\u01b0\u1eddng \u0110\u1ea1i H\u1ecdc c\u00f4ng ngh\u1ec7 \u0110\u1ed3ng Nai. Di\u1ec7n t\u00edch 10x6,5m. T\u1eeb Tr\u01b0\u1eddng v\u00e0o 1 x\u1eb9c 150m. \u0110i\u1ec7n n\u01b0\u1edbc m\u00e1y \u0111\u1ea7y \u0111\u1ee7. \u0110\u01b0\u1eddng b\u00ea t\u00f4ng 5m. Gi\u00e1 b\u00e1n 650tr th\u01b0\u01a1ng ...",
+            "snippet_highlighted_words": [
+                "b\u00e1n",
+                "b\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 82,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T TAM K\u1ef2 - QU\u1ea2NG NAM",
+            "link": "https://m.facebook.com/groups/1517958228504732/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://m.facebook.com/groups/1517958228504732/&usg=AOvVaw1QVdls8Whlx5XMVpCujnm0",
+            "displayed_link": "https://m.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc203b70f0563833809f8e660ecf0284dc03.png",
+            "snippet": "B\u00e1n \u0111\u1ea5t G\u1ea7n ngay ng\u00e3 4 Thanh H\u00f3a vs Tr\u1ea7n Cao V\u00e2n n\u1ed1i d\u00e0i. \u0110\u01b0\u1eddng nh\u1ef1a l\u1edbn 40b.Di\u1ec7n t\u00edch 6*32m.. h\u01b0\u1edbng \u0110\u00f4ng B\u1eafc. Gi\u00e1 1t\u1ef7950..\u260e\ufe0f 0775557775 ... ph\u01a1i \u0111\u1ed3, tr\u1ed3ng rau, ...",
+            "snippet_highlighted_words": [
+                "B\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 83,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T B\u1ea4T \u0110\u1ed8NG S\u1ea2N TH\u00c0NH PH\u1ed0 ...",
+            "link": "https://www.facebook.com/groups/784914355032780/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/784914355032780/&usg=AOvVaw04rIIrA_8mttsTcdy0bN5Z",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20a4382ae54589dd1ee6307f844c98c78b.png",
+            "snippet": "B\u00e1n l\u00f4 \u0111\u1ea5t v\u00e0ng trung t\u00e2m TP Ph\u1ee7 L\u00fd, di\u1ec7n t\u00edch 70m2, m\u1eb7t ti\u1ec1n 4,5m, l\u00f4 g\u00f3c 2 m\u1eb7t tho\u00e1ng, v\u1ecb tr\u00ed \u0111\u1eb9p.",
+            "snippet_highlighted_words": [
+                "B\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 84,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T H\u1ed8I AN",
+            "link": "https://www.facebook.com/groups/954697304697873/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/954697304697873/&usg=AOvVaw12yXG79kDK1q8gA1Tn94Mz",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20f6ef87d3dc2413d505af3357791ae03d.png",
+            "snippet": "ch\u00ednh ch\u1ec9 c\u1ea7n b\u00e1n g\u1ea5p l\u00f4 \u0111\u1ea5t h\u1ed9i an ngang 7 d\u00e0i 25 m\u1eb7t ti\u1ec1n 13,5 m, s\u00e1t \u0111\u01b0\u1eddng \u0111i\u1ec7n bi\u00ean ph\u1ee7, g\u1ea7n qu\u1ea3ng tr\u01b0\u1eddng, c\u00f4ng vien ... \u2713C\u1ea7n B\u00e1n \u0111\u1ea5t View L\u00faa H\u1ed9i An. -M\u1eb7t ...",
+            "snippet_highlighted_words": [
+                "b\u00e1n",
+                "B\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 85,
+            "title": "Mua b\u00e1n nh\u00e0 \u0111\u1ea5t v\u0129nh ph\u00fac (B\u1ea5t \u0110\u1ed9ng S\u1ea3n 88)",
+            "link": "https://www.facebook.com/groups/724624910941362/?locale=vi_VN",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/724624910941362/?locale=vi_VN&usg=AOvVaw2do07GMT3LwvF27tJvwWk2",
+            "displayed_link": "https://www.facebook.com \u203a Nh\u00f3m Facebook",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc201348dbdd027881acbeeff18f17731da5.png",
+            "snippet": "0368528483 n\u1ec1n \u0111\u0103ng khu v\u1ef1c n\u00ean n\u00f3 l\u00e0 kh\u00f4ng tr\u1edf l\u1ea1i ho\u1eb7c c\u1ea3 nh\u00e0 \u0111\u1ec1u \u0111\u01b0\u1ee3c h\u1ebft 1000 l\u1ea7n/4 trang \u0111i\u1ec3m th\u00ec t\u1ea7m 15 ngh\u00ecn 4 gi\u00e1 5 t\u1ef7 ... Gi\u00e1 si\u00eau r\u1ebb ch\u1ec9 h\u01a1n 2tr/m2 .",
+            "snippet_highlighted_words": [
+                "nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 86,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T M\u1ef8 THO - TI\u1ec0N GIANG",
+            "link": "https://www.facebook.com/groups/nhadatmytho.muaban/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/nhadatmytho.muaban/&usg=AOvVaw3TTQh5qFYoblf_w8d59NXO",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc2012c260ee5575c6d6ba7bca716d466ddd.png",
+            "snippet": "B\u0110S Ho\u00e0ng Gia Long ... \u26f31 N\u1ec0N TH\u1ed4 C\u01af - KHU PH\u1ed0 3, PH\u01af\u1edcNG 5, M\u1ef8 THO, TG. ... \u26f31 N\u1ec0N TH\u1ed4 C\u01af - KHU PH\u1ed0 3, PH\u01af\u1edcNG 5, M\u1ef8 THO, TG. ... \u0111\u01b0\u1eddng nh\u1ef1a \u0111\u00e1 mi 4m . ... No photo ...",
+            "source": "facebook.com"
+        },
+        {
+            "position": 87,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t H\u00e0 T\u0129nh",
+            "link": "https://www.facebook.com/groups/171608720226382/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/171608720226382/&usg=AOvVaw1vXXwJBrvqJr_4PvmqvwYL",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20145fb7ee67650e33b636fb34de882047.png",
+            "snippet": "Mua B\u00e1n \u0110\u1ea5t K\u1ef3 Anh - H\u00e0 T\u0129nh ... No photo description available. ... \u0110\u1ea5t quy ho\u1ea1ch GREEN . Dt 8 x 18 , h\u01b0\u1edbng T\u00e2y Nam. \u0110\u01b0\u1eddng th\u1ea3m 2 l\u00e0n \u00f4 t\u00f4. ... m\u1edbi, nguy\u00ean zin t\u1ea5t ...",
+            "snippet_highlighted_words": [
+                "Mua B\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 88,
+            "title": "Mua b\u00e1n nh\u00e0 \u0111\u1ea5t B\u1ebfn Tre",
+            "link": "https://www.facebook.com/groups/muabannhadatbentre/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/muabannhadatbentre/&usg=AOvVaw0wnB3iK-l3aYI7zuDzgtuG",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20df07e27e763c2cebd3ffcbca4b16f22a.png",
+            "snippet": "B\u00c1N \u0110\u1ea4T N\u1ec0N \u0110\u01af\u1edcNG S\u1ed0 3 - CH\u1ee2 CH\u00d9A. \u2014 Di\u1ec7n t\u00edch: 116,4m2 ( 4m x 29,9) full th\u1ed5 c\u01b0 .",
+            "snippet_highlighted_words": [
+                "B\u00c1N"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 89,
+            "title": "H\u1ed9i mua b\u00e1n nh\u00e0 \u0111\u1ea5t Phan Thi\u1ebft - B\u00ecnh Thu\u1eadn",
+            "link": "https://www.facebook.com/groups/muabannhadatphanthiet86/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/muabannhadatphanthiet86/&usg=AOvVaw22LnJg_NY-RRwaYdisa4lk",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc203299fe4465073cbfa1c3e585bc8942e8.png",
+            "snippet": "TI\u1ebeN L\u1ee2I - TP PHAN THI\u1ebeT. ... Ti\u1ebfn Th\u1ea1nh x\u00e3 Ti\u1ebfn L\u1ee3i . - Di\u1ec7n t\u00edch: 125m2 th\u1ed5 c\u01b0 ( 5x25 ). - H\u01b0\u1edbng T\u00e2y Nam. - Nh\u00e0 c\u00f2n t\u1ed1t g\u1ed3m s\u00e2n oto , ph\u00f2ng kh\u00e1ch ,4 ph\u00f2ng ng\u1ee7 ,",
+            "snippet_highlighted_words": [
+                "Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 90,
+            "title": "H\u1ed9i Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t T\u1ea1i Hu\u1ebf.Nh\u00f3m B\u00e1n H\u00e0ng B\u0110S M\u1ea1nh ...",
+            "link": "https://www.facebook.com/groups/muabanbatdongsanhue/?locale=vi_VN",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/muabanbatdongsanhue/?locale=vi_VN&usg=AOvVaw2Zi0j6m5JS8ZxMaxUExKmR",
+            "displayed_link": "https://www.facebook.com \u203a Nh\u00f3m Facebook",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20202ed44d92809c573559854e10ca0794.png",
+            "snippet": "Trang B\u0110S m\u1ea1nh nh\u1ea5t Hu\u1ebf. Li\u00ean H\u1ec7 K\u00ed G\u1eefi : 0905348913 B\u1ea5t \u0110\u1ed9ng S\u1ea3n Thi\u00ean \u00c2n.",
+            "source": "facebook.com"
+        },
+        {
+            "position": 91,
+            "title": "MUA B\u00c1N NH\u00c0 - \u0110\u1ea4T \u0110\u1ea0I T\u1eea",
+            "link": "https://www.facebook.com/groups/muabannhadatdaitu/?locale=vi_VN",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/muabannhadatdaitu/?locale=vi_VN&usg=AOvVaw0TuU9mG8cYaIrsI-C8CjMc",
+            "displayed_link": "https://www.facebook.com \u203a Nh\u00f3m Facebook",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc2002e9470415b333aad73a72caded9ab8d.png",
+            "snippet": "N\u1ed9i dung n\u00e0y hi\u1ec7n kh\u00f4ng hi\u1ec3n th\u1ecb ... xem ho\u1eb7c \u0111\u00e3 x\u00f3a n\u1ed9i dung. ... B\u00e1n c\u0103n nh\u00e0 si\u00eau \u0111\u1eb9p t\u1ea1i th\u1ecb tr\u1ea5n H\u00f9ng S\u01a1n, \u0110\u1ea1i T\u1eeb, Th\u00e1i Nguy\u00ean. ... Kh\u00f4ng c\u00f3 m\u00f4 t\u1ea3 \u1ea3nh. ... Kh\u00f4ng c\u00f3 ...",
+            "snippet_highlighted_words": [
+                "B\u00e1n",
+                "nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 92,
+            "title": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T QU\u1eacN THANH TR\u00cc - H\u00c0 N\u1ed8I",
+            "link": "https://www.facebook.com/groups/thuevachothuexedulich/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/thuevachothuexedulich/&usg=AOvVaw1UQK6IfTnrCdsplH_qt-EN",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc202125c0d63ed16603fc0755ba11e05154.png",
+            "snippet": "Tr\u1ee5c ch\u00ednh Th\u1ecd Am, g\u1ea7n C\u1ea7u T\u1ef1 Kho\u00e1t. \u00d4 t\u00f4 tr\u00e1nh, kinh doanh s\u1ea7m u\u1ea5t. Di\u1ec7n t\u00edch 40m2. Gi\u00e1 ch\u00e0o: 3.x t\u1ef7. Li\u00ean h\u1ec7: 0946120358 ... c\u00f9ng h\u1ee3p l\u00fd \u0111\u00e2y b\u00e0 con \u01a1i! ... r\u1ed9ng ...",
+            "source": "facebook.com"
+        },
+        {
+            "position": 93,
+            "title": "H\u1ed9i Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Duy\u00ean H\u1ea3i,C\u1ea7u Ngang,Tr\u00e0 C\u00fa ...",
+            "link": "https://www.facebook.com/groups/955550908217119/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/955550908217119/&usg=AOvVaw35Q4Rz3aPbA_-7kvrSDMJO",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20292408036dfbaaa5df5672ffc86b0bed.png",
+            "snippet": "\ud83d\udde3\ufe0f ... Nh\u00e0 em c\u1ea7n b\u00e1n \u0111\u1ea5t NTTS th\u1ea3 lang. Gi\u00e1p s\u00f4ng. ... Gi\u00e1 b\u00e1n: 2t\u1ef7150tr/ 13,680c. ... H\u1ea3i,C\u1ea7u Ngang,Tr\u00e0 C\u00fa,Tr\u00e0 Vinh\u2026. ... C\u1ea7n b\u00e1n 25c\u00f4ng \u0111\u1ea5t ao t\u00f4m thi\u00ean nhi\u00ean ( ...",
+            "snippet_highlighted_words": [
+                "Nh\u00e0",
+                "b\u00e1n",
+                "b\u00e1n",
+                "b\u00e1n"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 94,
+            "title": "Mua b\u00e1n nh\u00e0 \u0111\u1ea5t B\u1ea1c Li\u00eau",
+            "link": "https://www.facebook.com/groups/1056028507825978/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/1056028507825978/&usg=AOvVaw1fjOQoTwTkfNUnTdf9KB-H",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20e8be3685ad567bfcb490470e3fd032fc.png",
+            "snippet": "B\u00e1n nh\u00e0 h\u1ebbm 1 Tr\u1ea7n Ph\u00fa v\u00e0o 70m l\u1ed9 xe \u00f4 t\u00f4 Di\u1ec7n t\u00edch y h\u00ecnh , th\u00edch h\u1ee3p c\u1ea5t nh\u00e0 tr\u1ecd , nh\u00e0 \u1edf Gi\u00e1 b\u00e1n :960 tri\u1ec7u c\u00f2n th\u01b0\u01a1ng l\u01b0\u1ee3ng , Ace c\u1ea7n lh: ...",
+            "snippet_highlighted_words": [
+                "B\u00e1n nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 95,
+            "title": "MUA B\u00c1N NH\u00c0 \u0110\u1ea4T BA \u0110\u00ccNH - H\u00c0 N\u1ed8I",
+            "link": "https://www.facebook.com/groups/raovattoanquocfree/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/raovattoanquocfree/&usg=AOvVaw0eWAIxxsCnPI9tnURwoDkd",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20084aea6f6f42a5fb1623d224c7be8e7a.png",
+            "snippet": "H\u1ed8I MUA B\u00c1N NH\u00c0 \u0110\u1ea4T QU\u1eac... ... #ba\u0111\u00ecnh - H\u00e0 N\u1ed9i. ... m\u00e1y, PCCC \u0111\u00e2\u1ef3 \u0111\u1ee7. - Nh\u00e0 \u0111\u1eb9p, tho\u00e1ng, g\u1ea7n ph\u1ed1, ng\u00f5 3 g\u00e1c. - Khu v\u1ef1c VIP nhi\u1ec1u ti\u1ec7n \u00edch. G\u1ea7n r\u1ea5t nhi\u1ec1u tr\u01b0\u1eddng h\u1ecdc ...",
+            "snippet_highlighted_words": [
+                "MUA B\u00c1N NH\u00c0",
+                "Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 96,
+            "title": "Mua Ban Nh\u00e0 \u0110\u1ea5t S\u00f3c Tr\u0103ng",
+            "link": "https://www.facebook.com/groups/275081529723239/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/275081529723239/&usg=AOvVaw2g6NLhei4CiFHzT5annu2l",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20f153f007ba55b97fa62ca28fe725e6ef.png",
+            "snippet": "This browser is not supported \u00b7 Mua Ban Nh\u00e0 \u0110\u1ea5t S\u00f3c Tr\u0103ng \u00b7 \u0110\u1ea5t n\u1ec1n th\u1ed5 c\u01b0 n\u1ed9i \u00f4 th\u00e0nh ph\u1ed1 S\u00f3c Tr\u0103ng gi\u00e1 r\u1ebb \u00b7 #trangthanhthuy #nhadatsoctrang \u00b7 M\u1eb7t ti\u1ec1n N5m x ...",
+            "snippet_highlighted_words": [
+                "Ban Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 97,
+            "title": "Mua b\u00e1n Nh\u00e0 \u0110\u1ea5t BMT-\u0110\u0103kL\u0103k",
+            "link": "https://www.facebook.com/groups/139946890208528/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/139946890208528/&usg=AOvVaw0p2vNo1I3EuNXZIgs-KU89",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20ff58cf605091f99947ffc13d2fa0b245.png",
+            "snippet": "C\u00d4NG TY C\u1ed4 PH\u1ea6N L\u1ed8C TRUNG T\u00cdN Nh\u1eadn K\u00fd G\u1eedi Nh\u00e0 \u0110\u1ea5t - T\u01b0 V\u1ea5n \u0110\u1ea7u T\u01b0 D\u1ecbch v\u1ee5 gi\u1ea5y t\u1edd nh\u00e0 \u0111\u1ea5t Zalo - Hotline : 0944393468 \u0110\u1ecba ch\u1ec9 68 B\u1edd K\u00e8 ,...",
+            "snippet_highlighted_words": [
+                "Nh\u00e0",
+                "nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 98,
+            "title": "Mua b\u00e1n nh\u00e0 \u0111\u1ea5t B\u1eafc Giang",
+            "link": "https://www.facebook.com/groups/5232525220098597/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/5232525220098597/&usg=AOvVaw0b6fgy8lFvYmoO9CsPAoDu",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc2015f2a274f5171b45240e5d76db31ae39.png",
+            "snippet": "Ch\u1ee7 c\u1ea7n ti\u1ec1n b\u00e1n g\u1ea5p c\u0103n nh\u00e0 c\u1ea5p 4 c\u00f3 g\u00e1c x\u00e9p c\u1ed5ng ph\u01b0\u1eddng Ho\u00e0ng V\u0103n th\u1ee5 g\u1ea7n khu\u00f4n vi\u00ean g\u1ea7n tr\u01b0\u1eddng g\u1ea7n BV \u0111a khoa t\u1ec9nh.DT 64m gi\u00e1 9xx.lh.0896.575.888 ... \u0110\u00f4ng.",
+            "snippet_highlighted_words": [
+                "b\u00e1n",
+                "nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 99,
+            "title": "\u0110I\u1ec2M MUA B\u00c1N NH\u00c0 \u0110\u1ea4T TP.HCM",
+            "link": "https://www.facebook.com/groups/256111594771879/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/256111594771879/&usg=AOvVaw1iiZJuJPY7aCUgDXaVlCP_",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc20fef9008400b58a375b1dd3cbcab3e80a.png",
+            "snippet": "3.15 T\u1ef7 Nh\u00e0 1 Tr\u1ec7t 2 L\u1ea7u 3pn 3 wc 1 x\u1eb9t \u0110\u1ed7 Nhu\u1eadn s\u01a1n K\u00ec L\u00ea tr\u1ecdng t\u1ea5n Ti\u1ec7n \u00edch bao v\u00e2y\u260e0901195149. Phong ... No photo description available. ... DT: 112m\u00b2 th\u1ed5 c\u01b0.",
+            "snippet_highlighted_words": [
+                "Nh\u00e0"
+            ],
+            "source": "facebook.com"
+        },
+        {
+            "position": 100,
+            "title": "Mua B\u00e1n Nh\u00e0 \u0110\u1ea5t Huy\u1ec7n An D\u01b0\u01a1ng - H\u1ea3i Ph\u00f2ng",
+            "link": "https://www.facebook.com/groups/378691106070218/",
+            "redirect_link": "https://www.google.com.vn/url?sa=t&url=https://www.facebook.com/groups/378691106070218/&usg=AOvVaw0Sh88BdmeWrfa54wvohdF0",
+            "displayed_link": "https://www.facebook.com \u203a Facebook Groups",
+            "favicon": "https://serpapi.com/searches/667d30d558762b5438c84b89/images/114748024f30aadd76cf1a052393cc201043247a98848a12706a77d738ca9421.png",
+            "snippet": "B\u00e1n l\u00f4 \u0111\u1ea5t 2 m\u1eb7t ti\u1ec1n 185m. M\u1ed9t m\u1eb7t view v\u01b0\u1eddn hoa, m\u1ed9t m\u1eb7t t\u0111c c\u00e2y \u0111a. Chia \u0111\u01b0\u1ee3c 4 l\u00f4 .",
+            "snippet_highlighted_words": [
+                "B\u00e1n"
+            ],
+            "source": "facebook.com"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com.vn/search?q=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&oq=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&hl=vi&gl=vn&num=100&start=100&sourceid=chrome&ie=UTF-8",
+        "other_pages": {
+            "2": "https://www.google.com.vn/search?q=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&oq=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&hl=vi&gl=vn&num=100&start=100&sourceid=chrome&ie=UTF-8",
+            "3": "https://www.google.com.vn/search?q=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&oq=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&hl=vi&gl=vn&num=100&start=200&sourceid=chrome&ie=UTF-8",
+            "4": "https://www.google.com.vn/search?q=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&oq=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&hl=vi&gl=vn&num=100&start=300&sourceid=chrome&ie=UTF-8",
+            "5": "https://www.google.com.vn/search?q=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&oq=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&hl=vi&gl=vn&num=100&start=400&sourceid=chrome&ie=UTF-8"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=vn&google_domain=google.com.vn&hl=vi&num=100&q=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&start=100",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=vn&google_domain=google.com.vn&hl=vi&num=100&q=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&start=100",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=vn&google_domain=google.com.vn&hl=vi&num=100&q=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&start=100",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=vn&google_domain=google.com.vn&hl=vi&num=100&q=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&start=200",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=vn&google_domain=google.com.vn&hl=vi&num=100&q=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&start=300",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=vn&google_domain=google.com.vn&hl=vi&num=100&q=site%3Afacebook.com%2Fgroups%2F+B%C3%A1n+Nh%C3%A0&start=400"
+        }
+    }
+}
